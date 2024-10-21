@@ -13,3 +13,9 @@ Records file snapshots permanently in version history
 
 $ git push  
 Uploads all local branch commits to GitHub
+
+## Pull command
+
+$ git pull  
+Updates your current local working branch with all new commits from the corresponding remote branch on GitHub.  
+git pull is a combination of git fetch and git merge
